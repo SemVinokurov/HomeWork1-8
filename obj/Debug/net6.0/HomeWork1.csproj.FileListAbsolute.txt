@@ -1,0 +1,15 @@
+/Users/semenvinokurov/Desktop/HomeWorks/HomeWork1/obj/Debug/net6.0/HomeWork1.csproj.AssemblyReference.cache
+/Users/semenvinokurov/Desktop/HomeWorks/HomeWork1/obj/Debug/net6.0/HomeWork1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/semenvinokurov/Desktop/HomeWorks/HomeWork1/obj/Debug/net6.0/HomeWork1.AssemblyInfoInputs.cache
+/Users/semenvinokurov/Desktop/HomeWorks/HomeWork1/obj/Debug/net6.0/HomeWork1.AssemblyInfo.cs
+/Users/semenvinokurov/Desktop/HomeWorks/HomeWork1/obj/Debug/net6.0/HomeWork1.csproj.CoreCompileInputs.cache
+/Users/semenvinokurov/Desktop/HomeWorks/HomeWork1/bin/Debug/net6.0/HomeWork1
+/Users/semenvinokurov/Desktop/HomeWorks/HomeWork1/bin/Debug/net6.0/HomeWork1.deps.json
+/Users/semenvinokurov/Desktop/HomeWorks/HomeWork1/bin/Debug/net6.0/HomeWork1.runtimeconfig.json
+/Users/semenvinokurov/Desktop/HomeWorks/HomeWork1/bin/Debug/net6.0/HomeWork1.dll
+/Users/semenvinokurov/Desktop/HomeWorks/HomeWork1/bin/Debug/net6.0/HomeWork1.pdb
+/Users/semenvinokurov/Desktop/HomeWorks/HomeWork1/obj/Debug/net6.0/HomeWork1.dll
+/Users/semenvinokurov/Desktop/HomeWorks/HomeWork1/obj/Debug/net6.0/refint/HomeWork1.dll
+/Users/semenvinokurov/Desktop/HomeWorks/HomeWork1/obj/Debug/net6.0/HomeWork1.pdb
+/Users/semenvinokurov/Desktop/HomeWorks/HomeWork1/obj/Debug/net6.0/HomeWork1.genruntimeconfig.cache
+/Users/semenvinokurov/Desktop/HomeWorks/HomeWork1/obj/Debug/net6.0/ref/HomeWork1.dll
